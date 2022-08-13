@@ -4,7 +4,7 @@
 >
 > By Naga Rajasekhar
 
-You can find the live deployment link of this web page here --> **[Live Deployment Link](#)**
+You can find the live deployment link of this web page here --> **[Live Deployment Link](https://landingpageforwebdesign.netlify.app/)**
 <br/>
 <br/>
 <br/>
