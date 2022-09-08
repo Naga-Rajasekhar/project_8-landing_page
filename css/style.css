@@ -86,3 +86,56 @@ li {
   bottom: 5rem;
   left: 3.5rem;
 }
+
+@media screen and (max-width: 768px) {
+  .header-content {
+    display: none;
+  }
+
+  .header {
+    margin-left: -2rem;
+    margin-top: 1rem;
+  }
+
+  .sign-in {
+    margin-left: -2rem;
+  }
+
+  .content {
+    margin-top: 32rem;
+    padding-bottom: 2rem;
+    text-align: center;
+  }
+
+  .left-content-heading {
+    margin-left: -4rem;
+  }
+
+  .left-content-text {
+    margin-left: -3rem;
+  }
+
+  .left-content-description {
+    margin-top: 10px;
+  }
+
+  .learn-more {
+    margin-left: -4rem;
+  }
+
+  .left-content-images {
+    display: flex;
+    flex-direction: column;
+  }
+  .vector-image {
+    display: none;
+  }
+
+  .vector-dot {
+    display: none;
+  }
+
+  .header-logo-image {
+    height: 35px;
+  }
+}
